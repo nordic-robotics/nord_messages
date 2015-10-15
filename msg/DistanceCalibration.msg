@@ -1,0 +1,9 @@
+float64 meter
+uint16 adc_1
+uint16 adc_2
+uint16 adc_3
+uint16 adc_4
+uint16 adc_5
+uint16 adc_6
+uint16 adc_7
+uint16 adc_8
