@@ -48,6 +48,8 @@ add_message_files(
   RelativePoint.msg
   DistanceCalibration.msg
   MotorTwist.msg
+  IRSensors.msg
+  Command.msg
 )
 
 ## Generate services in the 'srv' folder
