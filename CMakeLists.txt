@@ -6,6 +6,7 @@ project(nord_messages)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
   std_msgs
+  geometry_msgs
   message_generation
 )
 
@@ -51,6 +52,7 @@ add_message_files(
   IMUValues.msg
   IRSensors.msg
   Command.msg
+  Vector3Array.msg
 )
 
 ## Generate services in the 'srv' folder
@@ -71,6 +73,7 @@ add_message_files(
 generate_messages(
   DEPENDENCIES
   std_msgs
+  geometry_msgs
 )
 
 ################################################
