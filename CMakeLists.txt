@@ -52,7 +52,8 @@ add_message_files(
   IMUValues.msg
   IRSensors.msg
   Command.msg
-  Vector3Array.msg
+  Coordinate.msg
+  CoordinateArray.msg
 )
 
 ## Generate services in the 'srv' folder
@@ -73,7 +74,6 @@ add_message_files(
 generate_messages(
   DEPENDENCIES
   std_msgs
-  geometry_msgs
 )
 
 ################################################
