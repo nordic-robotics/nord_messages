@@ -54,6 +54,9 @@ add_message_files(
   Command.msg
   Coordinate.msg
   CoordinateArray.msg
+  Position.msg
+  NextNode.msg
+  
 )
 
 ## Generate services in the 'srv' folder
