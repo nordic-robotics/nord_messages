@@ -56,7 +56,8 @@ add_message_files(
   CoordinateArray.msg
   Position.msg
   NextNode.msg
-  
+  Gaussian.msg
+  PoseEstimate.msg
 )
 
 ## Generate services in the 'srv' folder
