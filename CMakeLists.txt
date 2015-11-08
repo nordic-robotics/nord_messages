@@ -58,6 +58,7 @@ add_message_files(
   NextNode.msg
   Gaussian.msg
   PoseEstimate.msg
+  Vector2.msg
 )
 
 ## Generate services in the 'srv' folder
