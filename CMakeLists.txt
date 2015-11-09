@@ -59,6 +59,7 @@ add_message_files(
   PoseEstimate.msg
   Vector2.msg
   Classification.msg
+  ClassificationArray.msg
 )
 
 ## Generate services in the 'srv' folder
