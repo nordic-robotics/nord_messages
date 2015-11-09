@@ -54,7 +54,6 @@ add_message_files(
   Command.msg
   Coordinate.msg
   CoordinateArray.msg
-  Position.msg
   NextNode.msg
   Gaussian.msg
   PoseEstimate.msg
