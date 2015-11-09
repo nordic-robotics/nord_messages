@@ -1,2 +1,2 @@
 Vector2 loc
-std_msgs/String class
+std_msgs/String name
