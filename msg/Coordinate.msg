@@ -4,4 +4,4 @@ float64 z
 float64 xp
 float64 yp
 Vector2[] hull
-
+float32[] VFH
