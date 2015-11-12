@@ -1,9 +1,9 @@
 float64 x
 float64 y
 float64 z
-float64 xp
-float64 yp
+int32 xp
+int32 yp
 Vector2[] hull
 float32[] VFH
-int8[] feature
-int8 splits
+int16[] feature
+int16[] splits
