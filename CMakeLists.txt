@@ -60,6 +60,7 @@ add_message_files(
   Vector2.msg
   Classification.msg
   ClassificationArray.msg
+  DijkstraMap.msg
 )
 
 ## Generate services in the 'srv' folder
