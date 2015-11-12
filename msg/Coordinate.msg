@@ -5,5 +5,5 @@ float64 xp
 float64 yp
 Vector2[] hull
 float32[] VFH
-int8 feature
+int8[] feature
 int8 splits
