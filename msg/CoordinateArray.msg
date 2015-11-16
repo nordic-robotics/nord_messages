@@ -1,2 +1,2 @@
+std_msgs/Header header
 Coordinate[] data
-time stamp
