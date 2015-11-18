@@ -58,8 +58,6 @@ add_message_files(
   Gaussian.msg
   PoseEstimate.msg
   Vector2.msg
-  Classification.msg
-  ClassificationArray.msg
   Object.msg
   ObjectArray.msg
   Features.msg
