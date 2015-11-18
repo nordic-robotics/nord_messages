@@ -60,6 +60,9 @@ add_message_files(
   Vector2.msg
   Classification.msg
   ClassificationArray.msg
+  Object.msg
+  ObjectArray.msg
+  Features.msg
 )
 
 ## Generate services in the 'srv' folder

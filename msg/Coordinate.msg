@@ -4,6 +4,4 @@ float64 z
 int32 xp
 int32 yp
 Vector2[] hull
-float32[] VFH
-int16[] feature
-int16[] splits
+Features features
