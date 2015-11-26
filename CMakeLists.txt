@@ -70,6 +70,7 @@ add_service_files(
    ClassificationSrv.srv
    LandmarksSrv.srv
    FlannSrv.srv
+   EvidenceSrv.srv
  )
 
 ## Generate actions in the 'action' folder
