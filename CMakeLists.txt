@@ -61,6 +61,8 @@ add_message_files(
   Vector2Array.msg
   Object.msg
   ObjectArray.msg
+  Debris.msg
+  DebrisArray.msg
   Features.msg
 )
 
