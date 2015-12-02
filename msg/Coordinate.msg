@@ -5,3 +5,4 @@ int32 xp
 int32 yp
 Vector2[] hull
 Features features
+sensor_msgs/Image moneyshot
