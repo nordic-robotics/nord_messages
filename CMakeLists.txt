@@ -7,6 +7,7 @@ project(nord_messages)
 find_package(catkin REQUIRED COMPONENTS
   std_msgs
   geometry_msgs
+  sensor_msgs
   message_generation
   sensor_msgs
 )
