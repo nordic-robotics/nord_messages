@@ -75,6 +75,8 @@ add_service_files(
    LandmarksSrv.srv
    FlannSrv.srv
    EvidenceSrv.srv
+   MoneyshotSrv.srv
+   PromptEvidenceReportingSrv.srv
  )
 
 ## Generate actions in the 'action' folder
