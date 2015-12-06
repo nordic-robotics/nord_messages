@@ -1,4 +1,6 @@
 Vector2 start
 Vector2 end
+bool direct
 ---
 Vector2[] path
+float32 time
