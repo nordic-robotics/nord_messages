@@ -66,6 +66,8 @@ add_message_files(
   Debris.msg
   DebrisArray.msg
   Features.msg
+  GraphNode.msg
+  Graph.msg
 )
 
 ## Generate services in the 'srv' folder
