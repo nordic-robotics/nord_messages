@@ -80,6 +80,8 @@ add_service_files(
    MoneyshotSrv.srv
    PromptEvidenceReportingSrv.srv
    PlanSrv.srv
+   MultiLandmarksSrv.srv
+   ReClassifySrv.srv
  )
 
 ## Generate actions in the 'action' folder
